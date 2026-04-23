@@ -1,8 +1,13 @@
 # Phase-gate-for-Superconducting-Qubit
-Simulation of Resonator induced phase for Superconducting qubit using Quantum tool box in python.
+
+Simulation of resonator-induced phase for a superconducting qubit using QuTiP.
+
 ## Results
 
-| | |
-|:---:|:---:|
-| ![Phase Space 0-500ns](Superconducting_phase.png) | ![Phase Space 500-1000ns](theta.png) |
-| ![Entangling Phase](phase_space.png) | ![Resonator Evolution](photon_num.png) |
+| Phase Space (0–500 ns) | Phase Space (500–1000 ns) |
+|------------------------|---------------------------|
+| ![](Superconducting_phase.png) | ![](theta.png) |
+
+| Entangling Phase | Resonator Evolution |
+|------------------|---------------------|
+| ![](phase_space.png) | ![](photon_num.png) |
