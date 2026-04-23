@@ -4,10 +4,10 @@ Simulation of resonator-induced phase for a superconducting qubit using QuTiP.
 
 ## Results
 
-| Phase Space (0–500 ns) | Phase Space (500–1000 ns) |
+| Phase Space | Phase |
 |------------------------|---------------------------|
-| ![](Superconducting_phase.png) | ![](theta.png) |
+| ![](Superconducting%20phase.png) | ![](Theta.png) |
 
 | Entangling Phase | Resonator Evolution |
 |------------------|---------------------|
-| ![](phase_space.png) | ![](photon_num.png) |
+| ![](phase%20space.png) | ![](photon%20num.png) |
